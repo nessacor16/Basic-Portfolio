@@ -8,9 +8,8 @@ html {
 body {
     background-image: url(488539.jpg);
     background-size: cover;
-    padding: 10px 10px;
-    margin: 100px;
-}
+    background-attachment: fixe
+
 header {
     background-color: rgb(114, 112, 106);
     padding: 20px;
@@ -37,6 +36,7 @@ header {
     text-align: justify;
     border-radius: 50px;
     margin-right: 250px;
+    margin-top: -20px;
     box-sizing: content-box;
     -webkit-box-shadow: 0px 10px 13px -7px #000000, -50px -40px 0px -26px rgba(0,0,0,0); 
     box-shadow: 0px 10px 13px -7px #000000, -50px -40px 0px -26px rgba(0,0,0,0);
@@ -46,17 +46,17 @@ header {
  form {
      background: url(rm27-ning-17-background.jpg);
      position: relative;
-     border-radius: 50px;
+     border-radius: 10px;
      text-align: start;
-     font-size: 40px;
+     font-size: 20px;
      margin-right: 10px;
-     margin-left: 120px;
+     margin-left: 100px;
      padding: 30px;
      -webkit-box-shadow: 0px 10px 13px -7px #000000, -50px -40px 0px -26px rgba(0,0,0,0); 
      box-shadow: 0px 10px 13px -7px #000000, -50px -40px 0px -26px rgba(0,0,0,0);
      box-shadow: 10px 5px 5px rgb(58, 21, 21);
      box-shadow: 20px 10px 10px rgb(58, 21, 21);
-     margin-top: 90px;
+     margin-top: 50px;
      border-block-end-color: lightcoral;
      border-block-color: lightcora;
  }
